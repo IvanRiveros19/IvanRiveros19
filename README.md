@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+```
+const Ivan = {
+  codeIn: ['java 👨‍💻', 'c# 👀', 'php 🕸', 'python 🤖', 'javascript ✨'],
+  tools: [React, Redux, Node, Express],
+}
+```
+
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanRiveros19&count_private=true&show_icons=true&title_color=00FF7F&text_color=CBFFDF&icon_color=00A43C&bg_color=080808)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRiveros19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
